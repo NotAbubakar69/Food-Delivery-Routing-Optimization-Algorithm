@@ -1,0 +1,7 @@
+1
+5 2 2
+BurgerPalace 10 2
+Beef 7 5
+Zinger 15 8 
+PizzaPlanet 18 1
+Tikka 21 5 
