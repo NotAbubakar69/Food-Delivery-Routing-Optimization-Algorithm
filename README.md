@@ -6,8 +6,8 @@
 
 ## Team Members
 
-* Abu Bakr Nadeem (22I2003)
-* Muhammad Talha (22I1899)
+* Muhammad Abubakar Nadeem (22I2003)
+* Muhammad Huzaifa Swati (22I1899)
 
 ## Overview
 
